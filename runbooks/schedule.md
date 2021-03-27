@@ -6,17 +6,17 @@ These tasks include who is responsible for organising the completion of a task, 
 
 
 
-| Domain | Task                          | Frequency   | Timeframe                             | Responsible | Tracking Method           |
-| ------ | ----------------------------- | ----------- | ------------------------------------- | ----------- | ------------------------- |
-| Admin  | Town Hall                     | Monthly     | 1st (Non Holiday) Monday of the Month | Chairperson | Google Calendar/Docs/Blog |
-| Admin  | Board of Trustees Meeting     | Quarterly   | Fiscal Q - 1 mth                      | Secretary   | Google Calendar/Docs      |
-| Admin  | Annual General Meeting        | Annually    | April                                 | Chairperson | Google Calendar/Docs/Blog |
-| Admin  | Reconcile Xero                | Weekly      |                                       | Treasurer   | Xero                      |
-| Admin  | Reconcile Amazon PBI Invoices | Quarterly   |                                       | Treasurer   | AWS/Xero                  |
-| Space  | Refuse Bins Collected         | Fortnightly | Thursdays?                            | BCC         |                           |
-| Space  | Glass Bins Collected          | ?           | ?                                     | BCC         |                           |
-| Admin  | Policy Review                 | Annually    | March/April                           | Chairperson |                           |
-| Admin  | Insurance Review              | Annually    | February?                             | Board       |                           |
+| Domain | Task                                                         | Frequency   | Timeframe                             | Responsible | Tracking Method           |
+| ------ | ------------------------------------------------------------ | ----------- | ------------------------------------- | ----------- | ------------------------- |
+| Admin  | [Town Hall](rituals/town_hall.md)                            | Monthly     | 1st (Non Holiday) Monday of the Month | Chairperson | Google Calendar/Docs/Blog |
+| Admin  | [Board of Trustees Meeting](rituals/trustees_meeting.md)     | Quarterly   | Fiscal Q - 1 mth                      | Secretary   | Google Calendar/Docs      |
+| Admin  | [Annual General Meeting](rituals/annual_general_meeting.md)  | Annually    | April                                 | Chairperson | Google Calendar/Docs/Blog |
+| Admin  | Reconcile Xero                                               | Weekly      |                                       | Treasurer   | Xero                      |
+| Admin  | [Reconcile Amazon PBI Invoices](finance/AMZ-Pay-By-Invoice.md) | Quarterly   |                                       | Treasurer   | AWS/Xero                  |
+| Space  | Refuse Bins Collected                                        | Fortnightly | Thursdays?                            | BCC         |                           |
+| Space  | Glass Bins Collected                                         | ?           | ?                                     | BCC         |                           |
+| Admin  | Policy Review                                                | Annually    | March/April                           | Chairperson |                           |
+| Admin  | Insurance Review                                             | Annually    | February?                             | Board       |                           |
 
 
 

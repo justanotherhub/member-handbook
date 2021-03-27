@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-A Town Hall is a time for members of the hackerspace to get together and discuss any topics they feel are best raised in a somewhat official meeting, as well as providing a direct opportunity for wide visibility of the charities operations and engage on the management of the community for all.
+A Town Hall is a regular time for members of the hackerspace to get together and discuss any topics they feel are best raised in a somewhat official meeting, as well as providing a direct opportunity for wide visibility of the charities operations and engage on the management of the community for all.
 
 Town Hall summaries intended for members (tl;dr where possible), and should be readable. They’ll be read more frequently than written.
 
@@ -72,3 +72,10 @@ Town Hall summaries intended for members (tl;dr where possible), and should be r
 ## Tracking Links
 
 * [Town Halls of 2021](https://docs.google.com/document/d/11co1l9OpJ2FhFd8uFoJ9vQT_EKxZeN86eaE6DEoSO8A/edit)
+
+
+
+## Historical Notes
+
+For the purposes of CCNI reporting, and since Town Halls operated in the same general capacity as classical AGMs, the Town Hall before the Charities Commission Reporting period date was generally selected to be the representative AGM - @bolster
+

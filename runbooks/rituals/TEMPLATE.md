@@ -1,3 +1,5 @@
+
+
 When recording a 'ritual', stick to a common format as best as possible, below is an example of how to lay out a ritual plan
 
 # Summoning Cthulhu

@@ -44,3 +44,12 @@ This includes things like environmental monitoring,
   * [VPN](services/VPN.md)
   * [Website](services/Website.md)
   * [Wordpress](services/Wordpress.md)
+
+## Contributing to this repo
+
+/#todo move this this into a 'contributing.md' file
+
+
+
+
+
