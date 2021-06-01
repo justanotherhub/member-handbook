@@ -1,5 +1,11 @@
 # CCTV Policy and Procedures    
 
+Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
+
+Next Review: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
+
+Designated Data Protection Officer: Andrew Bolster, bolster@farsetlabs.org.uk, Mobile number: 07783249547
+
 ## Introduction
 
 The purpose of this Policy is to regulate the management, operation and use of the Closed Circuit Television (CCTV) system at Farset Labs. Cameras are used to monitor activities within the building for the purpose of securing the safety and well being of the Labs, together with its members and guests.

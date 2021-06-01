@@ -1,12 +1,18 @@
-Terms of Membership
+# Terms of Membership
 
-# Charitable Purpose
+Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
+
+Next Review: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
+
+Designated Membership Liaison: Artemiy Kondratiev (art@farsetlabs.org.uk)
+
+## Charitable Purpose
 
 The Charity’s objects (“Objects”) are the education of the public in STEAM (Science, Technology, Engineering, Arts and Mathematics) and the provision of community accessible workspaces to facilitate STEAM outreach and education in Northern Ireland, primarily focused in the Belfast area
 
 See [here](articles_of_association.md) for more information.
 
-# Membership 
+## Membership 
 
 Membership of Farset Labs gives you one vote in matters arising at any annual or extraordinary general meeting. This includes changes to the constitution, appointing or removing the charity trustees, and deciding whether the charity should be wound up. 
 
@@ -16,13 +22,13 @@ As a member you are granted permission to avail (where other considerations / in
 
 Termination of membership will result in withdrawal of permission to use or access the building. 
 
-# Membership Dues
+### Membership Dues
 
 The membership due covers all costs associated with running the building, including: rent, electricity, heating, water, internet connectivity, public liability insurance (for common areas), legal fees, administration costs and general maintenance. There will be a review of membership fees annually to ensure that we are covering the costs of running the building.
 
 Unless otherwise agreed by members, no members will receive a fee or discount to dues/desk rends for carrying out tasks related to the running of the building or charity.
 
-# General Rules
+## General Rules
 
 - Farset Labs is a shared resource. Members know that the building may be occupied by others at any time, including, but not limited to activities of Farset Labs.
 - Farset Labs is not liable for any injury or lost/stolen property from the space.
@@ -32,7 +38,7 @@ Unless otherwise agreed by members, no members will receive a fee or discount to
 
 
 
-# Shared Spaces & Facilities for hire
+## Shared Spaces & Facilities for hire
 
 - Please contact events@farsetlabs.org.uk to book rooms.
 - Room availability can be checked online at https://www.farsetlabs.org.uk/events/room_availability.html
@@ -41,29 +47,29 @@ Certain shared facilities are available to hire by non-members. These areas incl
 
 All shared spaces must be left tidy and clean at the end of each day. Work, tools, equipment and materials should be stored in member’s own storage boxes and not left in shared spaces.
 
-#### Insurance
+### Insurance
 
 - Farset Labs will provides public liability insurance for common areas only for activities operated by agents of the charity, i.e. members running Farset Labs event. Independent/Outside booking should establish their own PLI requirements.
 - Insurance for member-owned equipment are not covered by Farset Labs and members leave items in the workshop and common areas at their own risk.
 
-#### Health & Safety
+### Health & Safety
 
 - For accidents, health crises, criminal activities or fires call 999.
 - For any urgent issue that might compromise the structure of safety of the building, please contact the Weavers Court security desk, directly across from the front doors.
 
-#### Fire Safety
+### Fire Safety
 
 - Members agree to adhere to all fire regulations as detailed in the Fire Safety Policy.
 - Strictly no smoking or open flames anywhere in the building.
 - Members and their guests must sign in/out of the building using the system provided. #todo this would be a bit change but given the shift in size of building might not be a bad idea...
 
-#### Security
+### Security
 
 - Members agree to adhere to all security protocols as detailed in the Induction 
 - Members assume responsibility for the security of the building, and their property.
 - No propping of the main door or other external doors, which must remain closed at all times.
 
-#### Noise
+### Noise
 
 It is our responsibility to be good neighbours. The people living in the area are used to a quiet neighbourhood and we will do everything we can to ensure it stays that way.
 
@@ -72,7 +78,7 @@ It is our responsibility to be good neighbours. The people living in the area ar
 
 Normal working hours are 9am to 5pm. Whilst it is reasonable to expect some level of noise during these hours, every effort must be made to reduce noise outside of that time.
 
-#### Child protection and Safeguarding
+### Child protection and Safeguarding
 
 The document in the link below outlines the safeguarding policy and procedures for all work undertaken with children under the age of 18, and vulnerable adults at Farset Labs, in accordance with Children’s (NI) Order 1995, and Our Duty to Care, Child Care NI 1995.
 
@@ -88,14 +94,14 @@ Within our own community, we all need to strive towards cohesion and harmony. Th
 
 The trustees will try and mediate disputes should that become necessary. 
 
-### Culture and Ethos
+## Culture and Ethos
 
  * Be Excellent to each other;
  * Don't disturb those who do not want to be disturbed;
  * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
- * [Intolerance will not be tolerated](equality.html).
+ * [Intolerance will not be tolerated](equality.md).
 
-### Handling of Complaints and Breaches
+## Handling of Complaints and Breaches
 
  * All members should endeavour to resolve minor personal issues directly with the persons involved;
  * If this is not possible, the following general approach is to be applied;

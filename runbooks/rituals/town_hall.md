@@ -74,7 +74,6 @@ Town Hall summaries intended for members (tl;dr where possible), and should be r
 * [Town Halls of 2021](https://docs.google.com/document/d/11co1l9OpJ2FhFd8uFoJ9vQT_EKxZeN86eaE6DEoSO8A/edit)
 
 
-
 ## Historical Notes
 
 For the purposes of CCNI reporting, and since Town Halls operated in the same general capacity as classical AGMs, the Town Hall before the Charities Commission Reporting period date was generally selected to be the representative AGM - @bolster

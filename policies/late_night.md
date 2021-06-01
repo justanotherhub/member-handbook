@@ -1,5 +1,9 @@
 # Late Night Policy
 
+Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
+
+Next Review: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
+
 ## Late Events
 
 All events or gatherings which involve alcohol or loud music must end by 10.30 and vacate the building by 11pm. 
