@@ -69,7 +69,6 @@ _Note - these are functional roles only and do not confer any additional authori
 - Chair 
     - Representing Vault in an official capacity when necessary
     - Chairing the Annual General Meeting
-    – Supporting the Building Manager in their job
     – Checking that decisions taken at meetings are implemented
 - Secretary 
     - Setting agenda and recording minutes from board and members meetings
