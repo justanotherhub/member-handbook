@@ -9,27 +9,29 @@ Designated Finance Lead: Dylan Wylie, dylan@farsetlabs.org.uk
 ## Financial Records and Accounts
 
 1. Financial records must be kept so that:
-	- The organisation meets its legal and other statutory obligations, such as Charity Acts, Her Majesty's Revenue & Customs and common law.
-	- The trustees have proper financial control of the organisation.
-	- The organisation meets the contractual obligations and requirements of funders, donors, and the commuity writ large
+  
+   - The organisation meets its legal and other statutory obligations, such as Charity Acts, Her Majesty's Revenue & Customs and common law.
+   - The trustees have proper financial control of the organisation.
+   - The organisation meets the contractual obligations and requirements of funders, donors, and the commuity writ large
 
-1. The books of accounts must include:
-- A cashbook analysing all the transactions appearing on the bank accounts
-- A petty cash book if cash payments are being made (NB; Farset Labs does not currently operate a petty cash book but the trustees may at any point choose to temporarily use one).
-- Inland Revenue deduction cards P11 (if registered for PAYE)
+2. The books of accounts must include:
+   - A cashbook analysing all the transactions appearing on the bank accounts
+   - A petty cash book if cash payments are being made (NB; Farset Labs does not currently operate a petty cash book but the trustees may at any point choose to temporarily use one).
+   - Inland Revenue deduction cards P11 (if registered for PAYE)
 
-1. Accounts must be drawn up at the end of each financial year within 3 months of the financial year end and presented to the next Annual General Meeting.
+3. Accounts must be drawn up at the end of each financial year within 3 months of the financial year end and presented to the next Annual General Meeting.
 
-1. Prior to the start of each financial year, the trustees will approve a budgeted income and expenditure account for the following year.
+4. Prior to the start of each financial year, the trustees will approve a budgeted income and expenditure account for the following year.
 
-1. A report comparing actual income and expenditure with the budget should be presented to the trustees every three months or whenever meetings take place.
+5. A report comparing actual income and expenditure with the budget should be presented to the trustees every three months or whenever meetings take place.
 
-1. The AGM will appoint an appropriately qualified auditor/ independent examiner to audit or examine the accounts before presentation to the next AGM.
+6. The AGM will appoint an appropriately qualified auditor/ independent examiner to audit or examine the accounts before presentation to the next AGM.
 
 ## Banking
 
 1. The Charity will bank with Danske Bank plc at its Business Banking Branch and accounts will be held in the name of "Farset Labs". The following accounts will be maintained:
-	- Danske Charity Account
+
+   - Danske Charity Account
 
 1. The bank mandate (list of people who can sign cheques on the organisations behalf) will always be approved and minuted by the trustees as will any changes to it.
 
@@ -43,7 +45,7 @@ This document is intended to ensure clarity regarding the spending of Farset Lab
 
 ### Spending of Money by Trustees
 
-Purchases and expenses must be approved before they are performed. 
+Purchases and expenses must be approved before they are performed.
 
 The table below outlines the number of directors required to approve any given transaction.
 
@@ -54,25 +56,23 @@ The table below outlines the number of directors required to approve any given t
 | Greater than £250, less than or equal to £500 | 3                         |
 | Greater than £500                             | Unanimous                 |
 
-
 Exceptions to approval limits:
 
-* Payment of expected bills (Rent, Gas, Electricity, etc.)
-* Recurring and expected purchases (Tuck shop stock)
-* Emergency purchases (Purchases where there is no choice, the requisite number of directors are unavailable, and the purchase cannot be delayed. e.g. Plumbers)
+- Payment of expected bills (Rent, Gas, Electricity, etc.)
+- Recurring and expected purchases (Tuck shop stock)
+- Emergency purchases (Purchases where there is no choice, the requisite number of directors are unavailable, and the purchase cannot be delayed. e.g. Plumbers)
 
 ### Spending Related to Externally Funded Programmes
 
 In cases where funding and approval are sought and received from an external body and based on a reasonably itemised proposed budget, which is agreed by the majority of Directors, and does not include core company funds, approval to purchase is already implied when actioning said budget.
 
-
 ### Spending of Money by Members
 
 Members cannot spend charity money without prior approval by charity directors. When money is requested to be spent, there are two options:
 
-* Submission of a purchase request via email to admin@farsetlabs.org.uk 
+- Submission of a purchase request via email to admin@farsetlabs.org.uk
   The item will be purchased by the directors if approved.
-* Purchase of a pre-approved item using personal funds, followed by submission of an expenses claim on Xero.
+- Purchase of a pre-approved item using personal funds, followed by submission of an expenses claim on Xero.
 
 The table below outlines the number of directors required to approve any given transaction.
 
@@ -85,8 +85,8 @@ The table below outlines the number of directors required to approve any given t
 
 # Travel Expenses
 
-Expenses for travel may be reclaimed if the travel is company related, and pre-approved before being undertaken. Approval must be obtained prior to travel otherwise expenses are incurred at the traveller’s risk. 
-Member/NEM travel expenses require the approval of a single active director. 
+Expenses for travel may be reclaimed if the travel is company related, and pre-approved before being undertaken. Approval must be obtained prior to travel otherwise expenses are incurred at the traveller’s risk.
+Member/NEM travel expenses require the approval of a single active director.
 Director travel expenses require the approval of a director other than the requester.
 
 The repayment table for travel expenses is shown below.
@@ -97,27 +97,4 @@ The repayment table for travel expenses is shown below.
 | Private Car       | Up to £50 @ £0.45 / mile (Per vehicle) |
 | Taxis             | Up to £20 @ £2.50 / mile (Per vehicle) |
 
-# Claim Guidelines
 
-* Approval for purchases/travel must be obtained by emailing admin@farsetlabs.org.uk
-* Purchases/travel must not be performed prior to approval.
-  * Expenses claims may be rejected if unapproved
-  * Repayment may be requested for unapproved direct purchases
-* Receipts from purchases using company cards must be photographed and entered into Xero using the ‘Spend Money’ form. 
-  [Spend Money step by step guide](https://help.xero.com/uk/BankAccounts_Details_SpendMoney$Howto)
-* Receipts from personal expenses must be photographed and entered into Xero using the Expenses Claim procedure. 
-  [Expenses step by step guide](https://help.xero.com/uk/Payments_ExpenseClaims)
-* All photographs of receipts must be clear, and show the entire face of the receipt. If there are terms and conditions on the reverse of the receipt, this must also be photographed.
-* All paper receipts must be retained and stored on site. 
-* On submission of an expenses claim, an email notification should be sent to admin@farsetlabs.org.uk (There is no automatic notification in Xero)
-* Expenses claims may not be approved on Xero by the person submitting them. 
-* If an expenses claim is submitted correctly, then on receipt of an email notification Farset Labs will endeavour to repay approved expenses within seven days.
-
-# Repayment Guidelines
-
-It is the responsibility of those approving and issuing reimbursements to ensure that:
-
-* Expenses incurred are aligned to the aims of the Charity.
-* Approval has been sought within an appropriate time frame.
-* Reasonable effort has gone to minimise cost to the Charity.
-* Documentation is complete with original receipts being filed.
