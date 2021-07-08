@@ -21,7 +21,7 @@ It is our policy to provide employment equality to all, irrespective of:
 * Sexual orientation.
 * Age.
 
-**We are opposed to all forms of unlawful and unfair discrimination.** All job applicants, employees, volunteers, and others who work with us will be treated fairly and will not be discriminated against on any of the above grounds. 
+**We are opposed to all forms of unlawful and unfair discrimination.** All job applicants, employees, volunteers, members, guests, visitors and others who work with us will be treated fairly and will not be discriminated against on any of the above grounds. 
 
 Decisions about recruitment and selection, promotion, training or any other benefit will be made objectively and without unlawful discrimination.
 
